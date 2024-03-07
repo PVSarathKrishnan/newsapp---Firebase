@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "240445062833",
+    "project_id": "newsapp-triveous",
+    "storage_bucket": "newsapp-triveous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240445062833:android:d4143b140609ad50be2c90",
+        "android_client_info": {
+          "package_name": "com.example.newsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31wbquRr-AsOQ4cR4jIpcwF0asSCXTr8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
